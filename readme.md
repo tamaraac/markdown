@@ -6,7 +6,7 @@ funciona como um conversor de texto para HTML</p>
 
 # Lista de comandos em markdown
 <p>
-#titulo 
+* #titulo 
 ##titulo 
 ###titulo 
 ####titulo 
