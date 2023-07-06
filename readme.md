@@ -6,16 +6,12 @@ funciona como um conversor de texto para HTML</p>
 
 # Lista de comandos em markdown
 
-<p>
-Para titulos é necessário usar o jogo da velha #, e abaixo temos exemplos dos titulos que podemos criar eles vão do <h1> ate o <h6>, assim como o HTML. 
-</p>
-
-#titulo <h1>
-##titulo <h2>
-###titulo <h3>
-####titulo <h4>
-#####titulo <h5>
-######titulo <h6>
+#titulo 
+##titulo 
+###titulo 
+####titulo 
+#####titulo 
+######titulo 
 
 # Enfase
 
