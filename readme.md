@@ -4,10 +4,11 @@
 E uma sintaxe usada para padronizar e facilitar a formatação de texto na web, utilizada por aplicativos como slack e github.
 funciona como um conversor de texto para HTML</p>
 
-# Lista de comnandos em markdown
+# Lista de comandos em markdown
 
 <p>
 
+Para titulos é necessário usar o jogo da velha ´#´.
 #titulo <h1>
 ##titulo <h2>
 ###titulo <h3>
