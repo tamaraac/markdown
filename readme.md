@@ -9,6 +9,7 @@ funciona como um conversor de texto para HTML</p>
 <p>
 
 Para titulos é necessário usar o jogo da velha ´#´.
+</p>
 #titulo <h1>
 ##titulo <h2>
 ###titulo <h3>
