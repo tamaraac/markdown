@@ -5,5 +5,5 @@ E uma sintaxe usada para padronizar e facilitar a formatação de texto na web, 
 
 # Lista de comandos markdown
 
-#titulo <h1>
+<p>#titulo <h1></p>
 ##titulo
