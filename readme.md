@@ -30,4 +30,6 @@ Para criar uma **lista ordenada** use 1.,1.,1.., markdown coloca automaticamente
 ## Lista não ordenada
 <br>
 Para **lista não ordenada** use * conforme o exemplo abaixo: <br></br>
+
 ![ListaNao-ordenada](https://res.cloudinary.com/practicaldev/image/fetch/s--FWujeuK8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/1%2AlLpbwQCjMTxy_HTAsNfiYg.gif)
+
