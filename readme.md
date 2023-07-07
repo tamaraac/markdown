@@ -42,4 +42,7 @@ Para criar uma opção **check-box**: use * [ ], e para marcar check-box é so c
 
 <br></br>
 
-## Para Imagens 
+## Para colocar link
+
+
+## Para colocar uma imagem 
