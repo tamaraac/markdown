@@ -36,4 +36,6 @@ Para **lista não ordenada** use * conforme o exemplo abaixo: <br></br>
 <br></br>
 
 ## Para criar um campo check-box 
-Para check-box use * [] e use um X na caixa
+Para check-box use * [] e use um X na caixa <br></br>
+
+* [X] teste
