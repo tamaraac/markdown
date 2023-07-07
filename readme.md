@@ -5,6 +5,6 @@ E uma sintaxe usada para padronizar e facilitar a formatação de texto na web, 
 
 # Lista de comandos básicos em markdown
 
-Para titulos use a #
-Para h1 use uma #
-para h2 use duas ## e assim por diante ate o titulo h6
+## Titulos
+<br>Para titulos use # </br>teste
+
