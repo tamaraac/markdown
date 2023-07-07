@@ -53,10 +53,12 @@ Exemplo de uma imagem:
 
 ![gato](https://res.cloudinary.com/practicaldev/image/fetch/s--SGoXU3LR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/1400/1%2ASYUZgSdCPaO3GEj-pBDdMg.png)
 
-<p>Aqui contem so alguns  conceitos bem básicos da linguagem markdown e abaixo deixo alguns links para estudo e no universo da internet voce vai encontrar muito conteudo sobrte markdown.</p>
+<p>Aqui contem so alguns  conceitos bem básicos da linguagem markdown e abaixo deixo alguns links para estudo e no universo da internet voce vai encontrar muito conteudo sobre markdown.</p>
 
 Links :
 
 https://www.youtube.com/watch?v=3w-hECDDHPU´
 
 https://www.alura.com.br/artigos/como-trabalhar-com-markdown
+<br></br>
+:heart:
