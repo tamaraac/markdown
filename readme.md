@@ -17,4 +17,4 @@ E uma sintaxe usada para padronizar e facilitar a formatação de texto na web, 
 **Para formatar em italico use-** * *
 <br></br>
 
-[exemplos](https://res.cloudinary.com/practicaldev/image/fetch/s--X2XkNgYM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/1400/1%2A5Lx9_j-lrN3m2EDOhUZq9Q.png)
+![exemplos](https://res.cloudinary.com/practicaldev/image/fetch/s--X2XkNgYM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/1400/1%2A5Lx9_j-lrN3m2EDOhUZq9Q.png)
