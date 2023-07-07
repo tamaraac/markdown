@@ -39,3 +39,7 @@ Para **lista não ordenada** use * conforme o exemplo abaixo: <br></br>
 Para criar uma opção **check-box**: use * [ ], e para marcar check-box é so colocar um X dentro dos conchentes, veja exemplo abaixo: <br></br>
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--B9uVxHqg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/1%2AF-8baEJXZu4XFYdxYg1zyA.gif)
+
+<br></br>
+
+## Para Imagens 
