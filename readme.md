@@ -43,6 +43,12 @@ Para criar uma opção **check-box**: use * [ ], e para marcar check-box é so c
 <br></br>
 
 ## Para colocar link
+Entre [] coloca o titulo do link, e entre parenteses () coloque a url do link.<br></br>
 
 
 ## Para colocar uma imagem 
+**Para colocar imagem** use ![]()
+<br></br>
+Exemplo de uma imagem:<br></br>
+
+![gato](https://res.cloudinary.com/practicaldev/image/fetch/s--B9uVxHqg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/1%2AF-8baEJXZu4XFYdxYg1zyA.gif)
