@@ -51,4 +51,4 @@ Entre [] coloca o titulo do link, e entre parenteses () coloque a url do link.<b
 <br></br>
 Exemplo de uma imagem:<br></br>
 
-![gato](https://res.cloudinary.com/practicaldev/image/fetch/s--B9uVxHqg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/1%2AF-8baEJXZu4XFYdxYg1zyA.gif)
+![gato](https://res.cloudinary.com/practicaldev/image/fetch/s--SGoXU3LR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/1400/1%2ASYUZgSdCPaO3GEj-pBDdMg.png)
