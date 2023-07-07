@@ -6,5 +6,8 @@ E uma sintaxe usada para padronizar e facilitar a formatação de texto na web, 
 # Lista de comandos básicos em markdown
 
 ## Titulos
-<br>Para titulos use # </br>teste
+<br>Para titulos use # </br>
+<br>Para H1 use #</br>
+<br>Para H2 use ## </br>
+<br>E para H# use ### </br>
 
