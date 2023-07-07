@@ -13,5 +13,5 @@ E uma sintaxe usada para padronizar e facilitar a formatação de texto na web, 
 
 ![exemplo](https://res.cloudinary.com/practicaldev/image/fetch/s--eN6qBw82--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/1400/1%2AGmdBSicFuhO4eGnLVR4IFA.png)
 
-** Para formatar em negrito use - ** ** **
+**Para formatar em negrito use -** 
 
