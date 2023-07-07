@@ -49,6 +49,6 @@ Entre [] coloca o titulo do link, e entre parenteses () coloque a url do link.<b
 ## Para colocar uma imagem 
 **Para colocar imagem** use ![]()
 <br></br>
-Exemplo de uma imagem:<br></br>
+Exemplo de uma imagem:
 
 ![gato](https://res.cloudinary.com/practicaldev/image/fetch/s--SGoXU3LR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/1400/1%2ASYUZgSdCPaO3GEj-pBDdMg.png)
