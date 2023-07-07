@@ -11,4 +11,8 @@ E uma sintaxe usada para padronizar e facilitar a formatação de texto na web, 
 <br>Para H2 use ## </br>
 <br>E para H# use ### </br>
 
-![find](https://res.cloudinary.com/practicaldev/image/fetch/s--eN6qBw82--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/1400/1%2AGmdBSicFuhO4eGnLVR4IFA.png)
+![exemplo](https://res.cloudinary.com/practicaldev/image/fetch/s--eN6qBw82--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/1400/1%2AGmdBSicFuhO4eGnLVR4IFA.png)
+<br>
+** Para formatar em negrito use - ** **
+</br>
+<br>
